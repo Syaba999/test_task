@@ -1,0 +1,5 @@
+{
+  "currenciesRates": "Курсы валют",
+  "currenciesSettings": "Настройка валют",
+  "currenciesError": "Не удалось получить курсы валют"
+}

@@ -1,0 +1,35 @@
+build/
+
+.atom/
+.buildlog/
+.history
+.svn/
+.idea/
+.vscode/
+.dart_tool/
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+lib/generated
+lib/generated_plugin_registrant.dart
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
+*.gr.dart
+
+# Miscellaneous
+.DS_Store
+*.class
+*.log
+*.pyc
+*.swp
+*.iml
+*.ipr
+*.iws
+
+## gornivv.vscode-flutter-files extension
+templates/
