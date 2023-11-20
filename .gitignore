@@ -12,7 +12,6 @@ build/
 .flutter-plugins-dependencies
 .packages
 
-lib/generated
 lib/generated_plugin_registrant.dart
 
 # Generated files
